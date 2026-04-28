@@ -3,7 +3,7 @@
 A responsive **Spotify Web Player UI Clone** built using pure **HTML and CSS**.  
 This project replicates the modern Spotify desktop interface including sidebar navigation, music cards, and a custom music player UI.
 
----
+--- 
 
 ## 🚀 Features
 
