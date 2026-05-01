@@ -30,7 +30,7 @@ This project replicates the modern Spotify desktop interface including sidebar n
 ## 📂 Project Structure
 
 ```
-PROJECT HTML+CSS (Spotify Clone)/
+HTML-CSS-Project-Spotify-Clone/
 │
 ├── index.html    # Main UI (Homepage)
 ├── style.css     # All styling (layout + responsiveness)
@@ -44,13 +44,13 @@ PROJECT HTML+CSS (Spotify Clone)/
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/spotify-clone.git
+git clone https://github.com/godhaniyaarbham2000-spec/HTML-CSS-Project-Spotify-Clone.git
 ```
 
 Open project folder:
 
 ```
-cd spotify-clone
+cd HTML-CSS-Project-Spotify-Clone
 ```
 
 Run project:
